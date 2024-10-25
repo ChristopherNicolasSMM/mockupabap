@@ -3,10 +3,8 @@ Novas codificações de mockup para ser usados em atendimento de projetos, aulas
 
 ## Índice
 1. [Instalação](#instalacao)
-2. [Uso](#uso)
-3. [Funcionalidades](#funcionalidades)
-4. [Contribuição](#contribuicao)
-5. [Licença](#licenca)
+2. [Funcionalidades](#funcionalidades)
+3. [Licença](#licenca)
 
 <a name="instalacao"></a>
 ## Instalação
@@ -14,8 +12,20 @@ Novas codificações de mockup para ser usados em atendimento de projetos, aulas
 1. Clone o repositório:
    ```bash
    git clone https://github.com/usuario/nome-do-projeto.git
+---
+
+<a name="funcionalidades"></a>
+## Funcionalidades
+2. Funcionalidades
+
+
+
+
+---
+   
 <a name="licenca"></a>
-5. Licença
+## Licença
+3. Licença
 
 Permissão é concedida, gratuitamente, a qualquer pessoa que obtenha uma cópia destes softwares ou códigos e dos arquivos de documentação associados (aos "Softwares"), para utilizar os Softwares sem restrição, incluindo, sem limitação, os direitos de uso, cópia, modificação e distribuição, sujeito às seguintes condições:
 
